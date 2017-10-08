@@ -3,7 +3,7 @@
 官方其实有一种设置方法要求Activity是继承AppcompatActivity才能使用，
 还需要设置Theme为Theme.AppCompat.DayNight 后缀随意
 
-不过现在基本都默认支持，所以可以使用了
+不过现在基本都默认支持，所以只需要更改theme
 
 设置夜间模式
 
